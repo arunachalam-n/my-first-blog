@@ -44,33 +44,7 @@ defusedxml==0.6.0
 diff-match-patch 
 distributed 
 Django==3.1.4
-docutils==0.16
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-filelock==3.0.12
-flake8==3.8.3
-Flask==1.1.2
-folium 
-fsspec==0.7.4
-future==0.18.2
-geocoder==1.38.1
-geographiclib==1.50
-geopy 
-gevent 
-glob2==0.7
-gmpy2==2.0.8
-greenlet==0.4.16
-h5py==2.10.0
-HeapDict==1.0.1
-html5lib
-htmlmin==0.1.12
-idna 
-ImageHash 
-imageio 
-imagesize==1.2.0
-importlib-metadata 
-intervaltree
+
 
 
 
