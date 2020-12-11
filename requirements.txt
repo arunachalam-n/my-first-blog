@@ -31,7 +31,6 @@ cloudpickle
 colorama==0.4.3
 colorlover==0.3.0
 comtypes==1.1.7
-conda==4.9.2
 confuse 
 contextlib2==0.6.0.post1
 cryptography==2.9.2
